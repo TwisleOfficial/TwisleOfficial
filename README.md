@@ -2,6 +2,7 @@
 
 ```
 print.(Hello World) 
+Console.WriteLine("Hello World!");
 ```
 
 ## Coding
