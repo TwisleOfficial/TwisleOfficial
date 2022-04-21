@@ -15,3 +15,7 @@ I also dabble in alot of map modding inside of **FiveM**. **MLO** and **Ymaps** 
 
 ## Coding History
 Ive always been interested in **game desgin and development** along with just being a overall nerd. Im trying my hardest to learn more and more things within coding.
+
+## Places To Find Me
+
+[Discord](https://discord.gg/TCGEP3hHS2)
