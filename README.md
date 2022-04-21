@@ -19,5 +19,6 @@ Ive always been interested in **game desgin and development** along with just be
 ## Places To Find Me
 
 [Personal Discord](https://discord.gg/TCGEP3hHS2)
+
 [FiveM Forums](https://forum.cfx.re/u/twisle/)
 
