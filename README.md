@@ -1,7 +1,7 @@
 # Welcome To My GitHub Profile! 👋
 
 ```
-print.(Hello World) 
+TriggerEvent('chatMessage', "Server", {200,0,0}, "Twisles GitHub") 
 ```
 ```
 Console.WriteLine("Hello World!");
