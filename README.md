@@ -3,10 +3,9 @@
   <p align="center">Aspiring Python, C#, and Lua Programmer</p>
 </p>
 
-<p align="center">
 <a href="https://twitter.com/bgardner" class="twitter-follow-button" data-show-count="true" data-size="large">Follow @bgardner</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-</p>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TwisleOfficial" alt="TwisleOfficial" /></a> </p>
 
