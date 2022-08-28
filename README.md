@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">My GitHub</h2>
+  <h1 align="center">My GitHub</h1>
   <p align="center">Aspiring Python, C#, and Lua Programmer</p>
 </p>
 <p align="center">
