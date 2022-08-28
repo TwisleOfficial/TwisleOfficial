@@ -2,20 +2,9 @@
   <h1 align="center">My GitHub</h1>
   <p align="center">Aspiring Python, C#, and Lua Programmer</p>
 </p>
-<p align="center">
-  <a href="https://github.com/TwisleOfficial/github-profile-trophy/issues">
-    <img src="https://img.shields.io/github/issues/TwisleOfficial/TwisleOfficial"/> 
-  </a>
-  <a href="https://github.com/TwisleOfficial/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/TwisleOfficial/TwisleOfficial"/> 
-  </a>  
-  <a href="https://github.com/TwisleOfficial/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/TwisleOfficial/TwisleOfficial"/> 
-  </a>
-    <a href="https://github.com/TwisleOfficial/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/github/license/TwisleOfficial/TwisleOfficial"/> 
-  </a>
-</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ```
 TriggerEvent('chatMessage', "Server", {200,0,0}, "Twisles GitHub") 
@@ -38,6 +27,4 @@ Ive always been interested in **game desgin and development** along with just be
 [Personal Discord](https://discord.gg/TCGEP3hHS2)
 
 [FiveM Forums](https://forum.cfx.re/u/twisle/)
-
-[![trophy](https://github-profile-trophy.vercel.app/TwisleOfficial=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
