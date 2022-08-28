@@ -1,7 +1,9 @@
+<p align="center"> 
 # Welcome To My GitHub Profile! 👋
+</p>
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=billchirico&label=Profile%20views&color=0e75b6&style=flat" alt="twisleoffical" />
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
     <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/> 
   </a>
@@ -15,6 +17,7 @@
     <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/> 
   </a>
 </p>
+
 ```
 TriggerEvent('chatMessage', "Server", {200,0,0}, "Twisles GitHub") 
 ```
