@@ -4,8 +4,7 @@
 </p>
 <p align="center">
   </a>
-    <a href="https://twitter.com/TwisleWasTaken">
-    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy"/> 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/bukotsunikki)
   </a>
 </p>
 
