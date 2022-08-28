@@ -15,16 +15,7 @@ TriggerEvent('chatMessage', "Server", {200,0,0}, "Twisles GitHub")
 Console.WriteLine("Hello World!");
 ```
 <p align="center">
-## Coding
-Im just a simple nerd that is learning to code. Im currently learning **Lua** and **C#**. Mostly using this in **FiveM modding** and a little bit of **Unity Game Engine.**
+ 
 
-## Coding History
-Ive always been interested in **game desgin and development** along with just being a overall nerd. Im trying my hardest to learn more and more things within coding.
-
-## Places To Find Me
-
-[Personal Discord](https://discord.gg/TCGEP3hHS2)
-
-[FiveM Forums](https://forum.cfx.re/u/twisle/)
 
 </p>
