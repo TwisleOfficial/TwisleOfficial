@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">My GitHub</h1>
+  <h1 align="center">Twisle's GitHub</h1>
   <p align="center">Aspiring Python, C#, and Lua Programmer</p>
 </p>
 
@@ -14,12 +14,9 @@ TriggerEvent('chatMessage', "Server", {200,0,0}, "Twisles GitHub")
 ```
 Console.WriteLine("Hello World!");
 ```
-
+<p
 ## Coding
 Im just a simple nerd that is learning to code. Im currently learning **Lua** and **C#**. Mostly using this in **FiveM modding** and a little bit of **Unity Game Engine.**
-
-## Mapping
-I also dabble in alot of map modding inside of **FiveM**. **MLO** and **Ymaps** mainly.
 
 ## Coding History
 Ive always been interested in **game desgin and development** along with just being a overall nerd. Im trying my hardest to learn more and more things within coding.
@@ -30,3 +27,4 @@ Ive always been interested in **game desgin and development** along with just be
 
 [FiveM Forums](https://forum.cfx.re/u/twisle/)
 
+</p>
