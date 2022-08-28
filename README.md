@@ -3,9 +3,7 @@
   <p align="center">Aspiring Python, C#, and Lua Programmer</p>
 </p>
 
-<p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=TwisleOfficial)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TwisleOfficial" alt="TwisleOfficial" /></a> </p>
 
 
 ```
