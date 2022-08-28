@@ -1,5 +1,20 @@
 # Welcome To My GitHub Profile! 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=billchirico&label=Profile%20views&color=0e75b6&style=flat" alt="twisleoffical" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=billchirico&label=Profile%20views&color=0e75b6&style=flat" alt="twisleoffical" />
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+    <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/> 
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
+    <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/> 
+  </a>  
+  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/> 
+  </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
+    <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/> 
+  </a>
+</p>
 ```
 TriggerEvent('chatMessage', "Server", {200,0,0}, "Twisles GitHub") 
 ```
