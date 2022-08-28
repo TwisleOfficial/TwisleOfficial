@@ -14,7 +14,7 @@ TriggerEvent('chatMessage', "Server", {200,0,0}, "Twisles GitHub")
 ```
 Console.WriteLine("Hello World!");
 ```
-<p
+<p align="center">
 ## Coding
 Im just a simple nerd that is learning to code. Im currently learning **Lua** and **C#**. Mostly using this in **FiveM modding** and a little bit of **Unity Game Engine.**
 
