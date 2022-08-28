@@ -2,6 +2,12 @@
   <h1 align="center">My GitHub</h1>
   <p align="center">Aspiring Python, C#, and Lua Programmer</p>
 </p>
+<p align="center">
+  </a>
+    <a href="https://twitter.com/TwisleWasTaken">
+    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy"/> 
+  </a>
+</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TwisleOfficial" alt="TwisleOfficial" /></a> </p>
 
