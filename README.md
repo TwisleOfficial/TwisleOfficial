@@ -3,17 +3,17 @@
   <p align="center">Aspiring Python, C#, and Lua Programmer</p>
 </p>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
-    <img src="https://img.shields.io/github/issues/TwisleOfficial/github-profile-trophy"/> 
+  <a href="https://github.com/TwisleOfficial/github-profile-trophy/issues">
+    <img src="https://img.shields.io/github/issues/TwisleOfficial/TwisleOfficial"/> 
   </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/TwisleOfficial/github-profile-trophy"/> 
+  <a href="https://github.com/TwisleOfficial/github-profile-trophy/network/members">
+    <img src="https://img.shields.io/github/forks/TwisleOfficial/TwisleOfficial"/> 
   </a>  
-  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/TwisleOfficial/github-profile-trophy"/> 
+  <a href="https://github.com/TwisleOfficial/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/github/stars/TwisleOfficial/TwisleOfficial"/> 
   </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/github/license/TwisleOfficial/github-profile-trophy"/> 
+    <a href="https://github.com/TwisleOfficial/github-profile-trophy/LICENSE">
+    <img src="https://img.shields.io/github/license/TwisleOfficial/TwisleOfficial"/> 
   </a>
 </p>
 
