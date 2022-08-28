@@ -1,11 +1,9 @@
 <p align="center">
   <h1 align="center">My GitHub</h1>
   <p align="center">Aspiring Python, C#, and Lua Programmer</p>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=TwisleOfficial)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
-<p align="center">
-    [![trophy](https://github-profile-trophy.vercel.app/?username=TwisleOfficial)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
 
 ```
 TriggerEvent('chatMessage', "Server", {200,0,0}, "Twisles GitHub") 
