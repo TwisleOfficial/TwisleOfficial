@@ -1,11 +1,10 @@
 <p align="center">
   <h1 align="center">My GitHub</h1>
   <p align="center">Aspiring Python, C#, and Lua Programmer</p>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=TwisleOfficial)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=TwisleOfficial=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=TwisleOfficial)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 
