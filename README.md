@@ -7,13 +7,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TwisleOfficial" alt="TwisleOfficial" /></a> </p>
 
-
-```
-TriggerEvent('chatMessage', "Server", {200,0,0}, "Twisles GitHub") 
-```
-```
-Console.WriteLine("Hello World!");
-```
 <p align="center">
  
 
