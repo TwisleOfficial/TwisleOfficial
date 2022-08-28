@@ -1,7 +1,5 @@
 <p align="center"> 
 <h2 Welcome To My GitHub Profile! 👋 </h2>
-</p>
-<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=billchirico&label=Profile%20views&color=0e75b6&style=flat" alt="twisleoffical" />
   <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
     <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/> 
