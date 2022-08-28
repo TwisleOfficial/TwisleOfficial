@@ -39,5 +39,5 @@ Ive always been interested in **game desgin and development** along with just be
 
 [FiveM Forums](https://forum.cfx.re/u/twisle/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/TwisleOfficial=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
