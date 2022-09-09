@@ -1,6 +1,6 @@
 <p align="center">
-  <h1 align="center">Twisle's GitHub</h1>
-  <p align="center">Just a Programmer Trying To Make It. Basic C#, Python, and Lua Knowledge.</p>
+  <h1 align="center">My GitHub Profile</h1>
+  <p align="center">Just A Motivated Person Trying To Make It As A Programmer. Game Development Is My Passion.</p>
 </p>
 
 <div>
