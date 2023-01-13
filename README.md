@@ -21,8 +21,7 @@
 </div>
 
 <div>
-  <!-- Stats And Most Used languages -->
-  <p align="center"> <[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwisleOfficial)](https://github.com/TwisleOfficial/github-readme-stats)/> </p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwisleOfficial)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <p align="center">
