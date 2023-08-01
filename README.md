@@ -14,6 +14,10 @@
 </div>
 <div>
 
+<p align="center"> 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TwisleOfficial&theme=transparent)
+</p>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TwisleOfficial&theme=transparent)
   
 
