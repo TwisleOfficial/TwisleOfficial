@@ -15,7 +15,4 @@
   
 <div>
 
-<div align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TwisleOfficial&theme=transparent)
-</div>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TwisleOfficial&theme=transparent)
