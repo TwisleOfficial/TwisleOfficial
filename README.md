@@ -8,7 +8,6 @@
 </div>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwisleOfficial\&layout=donut)](https://github.com/TwisleOfficial/github-readme-stats)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TwisleOfficial&theme=transparent)
+![twisle's GitHub stats](https://github-readme-stats.vercel.app/api?username=TwisleOfficial&show_icons=true&theme=dark)
   
 
