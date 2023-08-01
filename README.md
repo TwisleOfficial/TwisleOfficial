@@ -7,7 +7,7 @@
   <p align="Center"> <img src="https://komarev.com/ghpvc/?username=TwisleOfficial&label=Profile%20views&color=0e75b6&style=flat" alt="TwisleOfficial" /> </p>
 </div>
  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwisleOfficial\&layout=donut)](https://github.com/TwisleOfficial/github-readme-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TwisleOfficial&theme=transparent)
   
