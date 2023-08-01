@@ -15,6 +15,7 @@
 <div>
 
 <p align="center"> 
+  <a href="[https://github.com/vn7n24fzkq/github-profile-summary-cards/stargazers](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TwisleOfficial&theme=transparent)">
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TwisleOfficial&theme=transparent)
 </p>
 
