@@ -14,6 +14,6 @@
 </div>
 <div>
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=transparent)
+<p align="center">![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=transparent)</p>
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TwisleOfficial&theme=transparent)
