@@ -1,5 +1,5 @@
-# 💫 About Me:
-Making free FiveM development content to help please learn
+# 💫 Hi Im Twisle, A Programming Content Creator!
+My goal for this github and my own cotent pages is to provide a source for those of you that want to learn how to code. To often do I see over priced cources that teach bad practices. Come join my non toxic and begginer friendly community where you can learn every second of everyday and share you progress with other like minded people!
 
 
 ## 🌐 Socials:
