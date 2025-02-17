@@ -10,4 +10,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwisleOfficial\&layout=compact&theme=dark)](https://github.com/TwisleOfficial/github-readme-stats)
 ![twisle's GitHub stats](https://github-readme-stats.vercel.app/api?username=TwisleOfficial&show_icons=true&theme=dark)
   
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
